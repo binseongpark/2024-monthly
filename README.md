@@ -8,6 +8,7 @@
 - next.js w/ts v13+
 - vue3 boilerplate w/ts
 - On-premise service
+- docker
 
 - nuxt.js
 - nest.js
